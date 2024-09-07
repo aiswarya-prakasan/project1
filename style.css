@@ -1,0 +1,5 @@
+.banner{
+    background-image: url(banner.jpeg);
+    padding: 150px 0px !important;
+    background-size: cover;
+}
